@@ -9,6 +9,10 @@ Just run the app.py file using python3.
 
 ╟========API instructions========╟
 
+make requests at
+https://localhost:5001/
+using Postman or curl
+
 /chain [GET]
 	returns the entire blockchain
 
